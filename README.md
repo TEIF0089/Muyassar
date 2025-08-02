@@ -34,7 +34,7 @@
 ---
 
 ## كيف تجرب البرنامج؟
-
+اسحب الملفات الي موجودة في node_modules2.rar, node_modules1.rar و node_modules3.rar و حطهم في ملف node_modules.rar الي موجود في ملف muyassarapp
 1. ثبت المتطلبات:
    ```bash
    npm install
@@ -47,10 +47,10 @@
 3. امسح الكود بالـ Expo Go على جوالك.
 
 ---
-
+**ملاحظة:** هالمشروع للعرض والتجربة فقط، مو آمن ولا فيه بيانات حقيقية، ومو متصل بأي سيرفر.
 ---
 
-**ملاحظة:** هالمشروع للعرض والتجربة فقط، مو آمن ولا فيه بيانات حقيقية، ومو متصل بأي سيرفر.
+
 - **Speech-to-Text:**
   - Works for all request fields.
   - Amount field intelligently converts Arabic number words (e.g. "ستة آلاف") to numbers (e.g. 6000).
