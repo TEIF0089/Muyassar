@@ -12,9 +12,9 @@
 - **الرئيسية:** تعرض لك بطاقات ومعلومات (كلها ثابتة، ما فيه بيانات حقيقية).
 - **الطلبات:** تقدر تسوي طلب جديد وتستخدم المايك عشان تعبي البيانات بالصوت.
 - **تحويل الكلام لنص:**
-  - يشتغل في كل خانات الطلب.
-  - خانة المبلغ تحوّل الكلام لأرقام (مثلاً تقول "ستة آلاف" يكتبها 6000).
-  - تضغط المايك مرة يبدأ يسجل، تضغطه مرة ثانية يوقف ويسوي التحويل.
+- يشتغل في كل خانات الطلب.
+- خانة المبلغ تحوّل الكلام لأرقام (مثلاً تقول "ستة آلاف" يكتبها 6000).
+- تضغط المايك مرة يبدأ يسجل، تضغطه مرة ثانية يوقف ويسوي التحويل.
 - **الرسائل:** فيه شات وهمي (مو حقيقي).
 - **واجهة حديثة ودعم للعربي بالكامل.**
 
@@ -26,8 +26,7 @@
 - **ما فيه بيانات حقيقية أو سيرفر:** كل شي محفوظ بجهازك، ما فيه تواصل مع أي قاعدة بيانات أو سيرفر.
 - **الطلبات والرسائل:** بس شكل، يعني لو حذفت التطبيق أو سويت إعادة تثبيت، كل شي يروح.
 - **تحويل الكلام لنص:**
-  - يستخدم خدمة AssemblyAI (لازم API Key عشان يشتغل صح، وما هو مدمج تلقائي).
-  - أحياناً ما يفهم كل الأرقام أو اللهجات بدقة.
+- يستخدم خدمة AssemblyAI (لازم API Key عشان يشتغل صح، وما هو مدمج تلقائي).
 - **بعض الصفحات زي المستندات والإعدادات والمساعدة:** بس أزرار شكل، ما تشتغل.
 - **الأمان:** لا تستخدمه لبياناتك الحقيقية أو أي شي مهم.
 
@@ -52,9 +51,9 @@
 
 
 - **Speech-to-Text:**
-  - Works for all request fields.
-  - Amount field intelligently converts Arabic number words (e.g. "ستة آلاف") to numbers (e.g. 6000).
-  - Manual mic toggle (press to start, press again to stop and transcribe).
+- Works for all request fields.
+- Amount field intelligently converts Arabic number words (e.g. "ستة آلاف") to numbers (e.g. 6000).
+- Manual mic toggle (press to start, press again to stop and transcribe).
 - **Messages:** Fake chat UI with sample conversations.
 - **Modern Arabic RTL UI:** Consistent, RTL-friendly design and green theme.
 
@@ -66,8 +65,8 @@
 - **No Real Backend:** All data is local to the app session or AsyncStorage. No cloud sync or server.
 - **Requests & Messaging:** Data is not persistent across reinstalls and is not shared between users.
 - **Speech-to-Text:**
-  - Uses AssemblyAI API for transcription (requires API key, not included by default).
-  - May not handle all complex Arabic numbers or dialects perfectly.
+- Uses AssemblyAI API for transcription (requires API key, not included by default).
+- May not handle all complex Arabic numbers or dialects perfectly.
 - **Document Upload, Settings, Help:** Menu items are placeholders and do not have real functionality.
 - **No Production Security:** Not suitable for real user data or deployment.
 
@@ -95,7 +94,3 @@
 3. Scan the QR code with Expo Go on your device.
 
 ---
-
-## Contact
-
-For questions or suggestions, open an issue or contact the project maintainer.
